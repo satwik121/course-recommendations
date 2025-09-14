@@ -1,0 +1,720 @@
+[
+  {
+    "id": "c001",
+    "title": "Machine Learning Specialization",
+    "provider": "Coursera",
+    "description": "Supervised learning, SVMs, neural networks, deep learning basics, practical projects.",
+    "skill_level": "intermediate",
+    "tags": [
+      "machine-learning",
+      "deep-learning",
+      "python"
+    ],
+    "duration_hours": 60,
+    "cost": "paid",
+    "sentiment_score": 6
+  },
+  {
+    "id": "c002",
+    "title": "Python for Data Science",
+    "provider": "Udemy",
+    "description": "Python basics, pandas, numpy, matplotlib, data cleaning and visualization",
+    "skill_level": "beginner",
+    "tags": [
+      "python",
+      "data-science",
+      "beginner"
+    ],
+    "duration_hours": 20,
+    "cost": "free",
+    "sentiment_score": 7
+  },
+  {
+    "id": "c003",
+    "title": "Classical Machine Learning",
+    "provider": "Udemy",
+    "description": "Master traditional ML algorithms including linear regression, decision trees, SVM, clustering, and ensemble methods with hands-on Python projects.",
+    "skill_level": "intermediate",
+    "tags": [
+      "machine-learning",
+      "python",
+      "scikit-learn",
+      "supervised-learning",
+      "unsupervised-learning"
+    ],
+    "duration_hours": 50,
+    "cost": "paid",
+    "sentiment_score": 2
+  },
+  {
+    "id": "c004",
+    "title": "Deep Learning A-Z\u00c3\u00a2\u00e2\u20ac\u017e\u00c2\u00a2: Hands-On Artificial Neural Networks",
+    "provider": "Udemy",
+    "description": "Build neural networks from scratch, CNNs for computer vision, RNNs for NLP, and advanced architectures using TensorFlow and Keras.",
+    "skill_level": "intermediate",
+    "tags": [
+      "deep-learning",
+      "neural-networks",
+      "tensorflow",
+      "keras",
+      "computer-vision",
+      "nlp"
+    ],
+    "duration_hours": 60,
+    "cost": "paid",
+    "sentiment_score": 3
+  },
+  {
+    "id": "c005",
+    "title": "Intro to Data Science",
+    "provider": "Udemy",
+    "description": "Python fundamentals for data analysis, pandas for data manipulation, NumPy for numerical computing, and matplotlib/seaborn for data visualization.",
+    "skill_level": "beginner",
+    "tags": [
+      "data-science",
+      "python",
+      "pandas",
+      "numpy",
+      "data-visualization",
+      "data-analysis"
+    ],
+    "duration_hours": 70,
+    "cost": "paid",
+    "sentiment_score": 8
+  },
+  {
+    "id": "c006",
+    "title": "Large Language Models Fundamentals",
+    "provider": "DeepLearning.AI",
+    "description": "Understanding transformer architecture, training LLMs, prompt engineering, fine-tuning techniques, and evaluation metrics.",
+    "skill_level": "intermediate",
+    "tags": [
+      "llm",
+      "transformers",
+      "prompt-engineering",
+      "fine-tuning"
+    ],
+    "duration_hours": 45,
+    "cost": "paid",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c007",
+    "title": "Building AI Applications with LangChain",
+    "provider": "Udemy",
+    "description": "Complete guide to LangChain framework, building chatbots, RAG systems, agents, and integrating multiple LLMs.",
+    "skill_level": "intermediate",
+    "tags": [
+      "langchain",
+      "rag",
+      "chatbots",
+      "python",
+      "ai-agents"
+    ],
+    "duration_hours": 35,
+    "cost": "paid",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c008",
+    "title": "Generative AI for Beginners",
+    "provider": "Microsoft Learn",
+    "description": "Introduction to generative AI concepts, GPT models, image generation, text-to-code, and ethical considerations.",
+    "skill_level": "beginner",
+    "tags": [
+      "generative-ai",
+      "gpt",
+      "ethics",
+      "text-generation"
+    ],
+    "duration_hours": 20,
+    "cost": "free",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c009",
+    "title": "Advanced Prompt Engineering and Chain-of-Thought",
+    "provider": "Coursera",
+    "description": "Master advanced prompting techniques, chain-of-thought reasoning, few-shot learning, and prompt optimization strategies.",
+    "skill_level": "advanced",
+    "tags": [
+      "prompt-engineering",
+      "chain-of-thought",
+      "few-shot-learning",
+      "optimization"
+    ],
+    "duration_hours": 25,
+    "cost": "paid",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c010",
+    "title": "Production LLM Deployment and MLOps",
+    "provider": "Pluralsight",
+    "description": "Deploy LLMs at scale, model serving, monitoring, A/B testing, cost optimization, and production best practices.",
+    "skill_level": "advanced",
+    "tags": [
+      "mlops",
+      "deployment",
+      "model-serving",
+      "monitoring",
+      "scaling"
+    ],
+    "duration_hours": 40,
+    "cost": "paid",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c011",
+    "title": "Data Structures and Algorithms Mastery",
+    "provider": "LeetCode",
+    "description": "Comprehensive DSA course covering arrays, trees, graphs, dynamic programming, and system design fundamentals.",
+    "skill_level": "intermediate",
+    "tags": [
+      "data-structures",
+      "algorithms",
+      "problem-solving",
+      "coding-interviews"
+    ],
+    "duration_hours": 80,
+    "cost": "paid",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c012",
+    "title": "Backend Development with Node.js and Express",
+    "provider": "Udemy",
+    "description": "Build scalable REST APIs, authentication, database integration, middleware, testing, and deployment strategies.",
+    "skill_level": "intermediate",
+    "tags": [
+      "nodejs",
+      "express",
+      "rest-api",
+      "mongodb",
+      "authentication"
+    ],
+    "duration_hours": 50,
+    "cost": "paid",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c013",
+    "title": "DevOps Engineering Complete Bootcamp",
+    "provider": "TechWorld with Nana",
+    "description": "Docker, Kubernetes, CI/CD pipelines, AWS, monitoring, infrastructure as code, and cloud deployment.",
+    "skill_level": "intermediate",
+    "tags": [
+      "devops",
+      "docker",
+      "kubernetes",
+      "ci-cd",
+      "aws",
+      "terraform"
+    ],
+    "duration_hours": 65,
+    "cost": "paid",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c014",
+    "title": "System Design for Software Engineers",
+    "provider": "Educative",
+    "description": "Design scalable systems, load balancing, databases, caching, microservices architecture, and distributed systems.",
+    "skill_level": "advanced",
+    "tags": [
+      "system-design",
+      "scalability",
+      "microservices",
+      "distributed-systems",
+      "architecture"
+    ],
+    "duration_hours": 40,
+    "cost": "paid",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c015",
+    "title": "Clean Code and Software Engineering Principles",
+    "provider": "Pluralsight",
+    "description": "SOLID principles, design patterns, refactoring techniques, testing strategies, and maintainable code practices.",
+    "skill_level": "beginner",
+    "tags": [
+      "clean-code",
+      "design-patterns",
+      "solid-principles",
+      "refactoring",
+      "testing"
+    ],
+    "duration_hours": 30,
+    "cost": "free",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c016",
+    "title": "Full-Stack Web Development with React and Node.js",
+    "provider": "Coursera",
+    "description": "Frontend with React, backend with Node.js/Express, RESTful APIs, authentication, and deployment.",
+    "skill_level": "intermediate",
+    "tags": [
+      "full-stack",
+      "react",
+      "nodejs",
+      "express",
+      "mongodb"
+    ],
+    "duration_hours": 70,
+    "cost": "paid",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c017",
+    "title": "Cloud Computing with AWS",
+    "provider": "Udemy",
+    "description": "AWS fundamentals, EC2, S3, RDS, Lambda, VPC, IAM, and deploying scalable applications.",
+    "skill_level": "beginner",
+    "tags": [
+      "aws",
+      "cloud-computing",
+      "ec2",
+      "s3",
+      "lambda"
+    ],
+    "duration_hours": 40,
+    "cost": "paid",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c018",
+    "title": "Introduction to Cybersecurity",
+    "provider": "edX",
+    "description": "Cybersecurity basics, threat landscape, cryptography, network security, and risk management.",
+    "skill_level": "beginner",
+    "tags": [
+      "cybersecurity",
+      "network-security",
+      "cryptography",
+      "risk-management"
+    ],
+    "duration_hours": 25,
+    "cost": "free",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c019",
+    "title": "Agile Project Management",
+    "provider": "LinkedIn Learning",
+    "description": "Agile methodologies, Scrum framework, project planning, team collaboration, and continuous improvement.",
+    "skill_level": "beginner",
+    "tags": [
+      "agile",
+      "scrum",
+      "project-management",
+      "team-collaboration"
+    ],
+    "duration_hours": 15,
+    "cost": "free",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c020",
+    "title": "Mobile App Development with Flutter",
+    "provider": "Udemy",
+    "description": "Flutter framework, Dart programming, UI design, state management, and publishing apps to app stores.",
+    "skill_level": "intermediate",
+    "tags": [
+      "flutter",
+      "mobile-development",
+      "dart",
+      "ui-design"
+    ],
+    "duration_hours": 45,
+    "cost": "paid",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c021",
+    "title": "Database Management and SQL",
+    "provider": "Khan Academy",
+    "description": "SQL queries, database design, normalization, indexing, transactions, and working with relational databases.",
+    "skill_level": "beginner",
+    "tags": [
+      "sql",
+      "database",
+      "normalization",
+      "transactions"
+    ],
+    "duration_hours": 20,
+    "cost": "free",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c022",
+    "title": "Cybersecurity Fundamentals and Ethical Hacking",
+    "provider": "CompTIA",
+    "description": "Network security, penetration testing, vulnerability assessment, incident response, and security compliance frameworks.",
+    "skill_level": "intermediate",
+    "tags": [
+      "cybersecurity",
+      "ethical-hacking",
+      "penetration-testing",
+      "network-security",
+      "compliance"
+    ],
+    "duration_hours": 70,
+    "cost": "paid",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c023",
+    "title": "Cloud Computing with AWS Solutions Architect",
+    "provider": "Amazon Web Services",
+    "description": "AWS services architecture, serverless computing, containerization, cloud migration, and cost optimization strategies.",
+    "skill_level": "intermediate",
+    "tags": [
+      "aws",
+      "cloud-computing",
+      "serverless",
+      "containers",
+      "cloud-architecture"
+    ],
+    "duration_hours": 60,
+    "cost": "paid",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c024",
+    "title": "Data Science and Analytics with Python",
+    "provider": "IBM",
+    "description": "Statistical analysis, data visualization, machine learning algorithms, pandas, NumPy, and predictive modeling.",
+    "skill_level": "intermediate",
+    "tags": [
+      "data-science",
+      "python",
+      "analytics",
+      "machine-learning",
+      "data-visualization"
+    ],
+    "duration_hours": 55,
+    "cost": "paid",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c025",
+    "title": "Blockchain Development and Smart Contracts",
+    "provider": "ConsenSys Academy",
+    "description": "Blockchain fundamentals, Ethereum development, Solidity programming, DeFi protocols, and Web3 applications.",
+    "skill_level": "advanced",
+    "tags": [
+      "blockchain",
+      "ethereum",
+      "solidity",
+      "smart-contracts",
+      "web3",
+      "defi"
+    ],
+    "duration_hours": 45,
+    "cost": "paid",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c026",
+    "title": "Automation Testing with Selenium and CI/CD",
+    "provider": "Edureka",
+    "description": "Test automation frameworks, Selenium WebDriver, Jenkins, continuous testing, and quality assurance best practices.",
+    "skill_level": "intermediate",
+    "tags": [
+      "automation-testing",
+      "selenium",
+      "ci-cd",
+      "jenkins",
+      "quality-assurance"
+    ],
+    "duration_hours": 40,
+    "cost": "paid",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c027",
+    "title": "Internet of Things (IoT) Development",
+    "provider": "Coursera",
+    "description": "IoT architecture, sensor integration, data communication protocols, cloud connectivity, and IoT security.",
+    "skill_level": "intermediate",
+    "tags": [
+      "iot",
+      "sensors",
+      "cloud-connectivity",
+      "data-communication",
+      "iot-security"
+    ],
+    "duration_hours": 50,
+    "cost": "paid",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c028",
+    "title": "UI/UX Design Principles and Tools",
+    "provider": "Interaction Design Foundation",
+    "description": "User-centered design, wireframing, prototyping, usability testing, and design tools like Figma and Sketch.",
+    "skill_level": "beginner",
+    "tags": [
+      "ui-ux",
+      "user-centered-design",
+      "prototyping",
+      "usability-testing",
+      "figma"
+    ],
+    "duration_hours": 30,
+    "cost": "free",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c029",
+    "title": "Agile and Scrum Master Certification",
+    "provider": "Scrum Alliance",
+    "description": "Agile principles, Scrum framework, product backlog management, sprint planning, and team facilitation techniques.",
+    "skill_level": "beginner",
+    "tags": [
+      "agile",
+      "scrum",
+      "project-management",
+      "team-facilitation"
+    ],
+    "duration_hours": 20,
+    "cost": "paid",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c030",
+    "title": "Mobile App Development with React Native",
+    "provider": "Udacity",
+    "description": "React Native framework, JavaScript programming, UI components, state management, and app deployment to iOS/Android.",
+    "skill_level": "intermediate",
+    "tags": [
+      "react-native",
+      "mobile-development",
+      "javascript",
+      "ui-components"
+    ],
+    "duration_hours": 55,
+    "cost": "paid",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c031",
+    "title": "Introduction to Quantum Computing",
+    "provider": "edX",
+    "description": "Quantum mechanics basics, qubits, quantum gates, quantum algorithms, and applications in cryptography and optimization.",
+    "skill_level": "advanced",
+    "tags": [
+      "quantum-computing",
+      "qubits",
+      "quantum-algorithms",
+      "cryptography"
+    ],
+    "duration_hours": 40,
+    "cost": "free",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c032",
+    "title": "Robotic Process Automation (RPA) with UiPath",
+    "provider": "UiPath Academy",
+    "description": "RPA concepts, UiPath Studio, workflow automation, bot deployment, and RPA best practices.",
+    "skill_level": "beginner",
+    "tags": [
+      "rpa",
+      "uipath",
+      "workflow-automation",
+      "bot-deployment"
+    ],
+    "duration_hours": 25,
+    "cost": "free",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c033",
+    "title": "5G Technology and Network Fundamentals",
+    "provider": "Coursera",
+    "description": "5G architecture, network slicing, edge computing, IoT integration, and security considerations in 5G networks.",
+    "skill_level": "intermediate",
+    "tags": [
+      "5g",
+      "networking",
+      "edge-computing",
+      "iot",
+      "network-security"
+    ],
+    "duration_hours": 35,
+    "cost": "paid",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c034",
+    "title": "Augmented Reality (AR) Development with Unity",
+    "provider": "Udemy",
+    "description": "AR concepts, Unity3D engine, C# programming, ARKit/ARCore integration, and building AR applications.",
+    "skill_level": "intermediate",
+    "tags": [
+      "augmented-reality",
+      "unity3d",
+      "csharp",
+      "arkit",
+      "arcore"
+    ],
+    "duration_hours": 45,
+    "cost": "paid",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c035",
+    "title": "Natural Language Processing (NLP) with Python",
+    "provider": "DataCamp",
+    "description": "NLP fundamentals, text preprocessing, sentiment analysis, topic modeling, and using libraries like NLTK and spaCy.",
+    "skill_level": "intermediate",
+    "tags": [
+      "nlp",
+      "python",
+      "text-preprocessing",
+      "sentiment-analysis",
+      "topic-modeling"
+    ],
+    "duration_hours": 40,
+    "cost": "paid",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c036",
+    "title": "Ethical Hacking and Penetration Testing",
+    "provider": "EC-Council",
+    "description": "Ethical hacking principles, penetration testing methodologies, vulnerability assessment, and security tools.",
+    "skill_level": "advanced",
+    "tags": [
+      "ethical-hacking",
+      "penetration-testing",
+      "vulnerability-assessment",
+      "security-tools"
+    ],
+    "duration_hours": 60,
+    "cost": "paid",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c037",
+    "title": "Learning How to Learn: Effective Study Techniques",
+    "provider": "Coursera",
+    "description": "Science-based learning techniques, memory improvement, overcoming procrastination, and building effective study habits.",
+    "skill_level": "beginner",
+    "tags": [
+      "learning-techniques",
+      "memory",
+      "study-habits",
+      "productivity",
+      "self-improvement"
+    ],
+    "duration_hours": 15,
+    "cost": "free",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c038",
+    "title": "Startup Fundamentals: From Idea to Launch",
+    "provider": "Y Combinator",
+    "description": "Business model validation, MVP development, fundraising, team building, and scaling strategies for startups.",
+    "skill_level": "beginner",
+    "tags": [
+      "startup",
+      "entrepreneurship",
+      "business-model",
+      "mvp",
+      "fundraising"
+    ],
+    "duration_hours": 35,
+    "cost": "free",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c039",
+    "title": "Personal Productivity and Time Management Mastery",
+    "provider": "Udemy",
+    "description": "GTD methodology, priority management, automation tools, habit formation, and work-life balance strategies.",
+    "skill_level": "beginner",
+    "tags": [
+      "productivity",
+      "time-management",
+      "habits",
+      "automation",
+      "work-life-balance"
+    ],
+    "duration_hours": 25,
+    "cost": "paid",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c040",
+    "title": "Digital Marketing for Entrepreneurs",
+    "provider": "Google Digital Garage",
+    "description": "SEO, social media marketing, content strategy, analytics, email marketing, and customer acquisition techniques.",
+    "skill_level": "intermediate",
+    "tags": [
+      "digital-marketing",
+      "seo",
+      "social-media",
+      "content-strategy",
+      "customer-acquisition"
+    ],
+    "duration_hours": 40,
+    "cost": "free",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c041",
+    "title": "Financial Planning and Investment for Beginners",
+    "provider": "Khan Academy",
+    "description": "Personal finance basics, budgeting, investment strategies, retirement planning, and wealth building principles.",
+    "skill_level": "beginner",
+    "tags": [
+      "personal-finance",
+      "investing",
+      "budgeting",
+      "retirement-planning",
+      "wealth-building"
+    ],
+    "duration_hours": 20,
+    "cost": "free",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c042",
+    "title": "Emotional Intelligence and Leadership Skills",
+    "provider": "LinkedIn Learning",
+    "description": "Self-awareness, empathy, communication skills, conflict resolution, and leading high-performing teams.",
+    "skill_level": "beginner",
+    "tags": [
+      "emotional-intelligence",
+      "leadership",
+      "communication",
+      "team-building",
+      "conflict-resolution"
+    ],
+    "duration_hours": 15,
+    "cost": "free",
+    "sentiment_score": 0
+  },
+  {
+    "id": "c043",
+    "title": "Creative Thinking and Problem Solving",
+    "provider": "edX",
+    "description": "Divergent thinking, brainstorming techniques, design thinking, decision making, and innovation strategies.",
+    "skill_level": "beginner",
+    "tags": [
+      "creative-thinking",
+      "problem-solving",
+      "design-thinking",
+      "innovation",
+      "decision-making"
+    ],
+    "duration_hours": 20,
+    "cost": "free",
+    "sentiment_score": 0
+  }
+]

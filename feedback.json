@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "student_name": "Satwik",
+    "course_id": "c001",
+    "like": true,
+    "dislike": false,
+    "comment": "This course looks good for ML basics."
+  },
+  {
+    "id": 2,
+    "student_name": "Rahul",
+    "course_id": "c001",
+    "like": true,
+    "dislike": false,
+    "comment": "Amazing Course."
+  },
+  {
+    "id": 3,
+    "student_name": "Rahul",
+    "course_id": "c002",
+    "like": true,
+    "dislike": false,
+    "comment": "Amazing Course."
+  },
+  {
+    "id": 4,
+    "student_name": "Isha",
+    "course_id": "c002",
+    "like": true,
+    "dislike": false,
+    "comment": "Amazing Course."
+  },
+  {
+    "id": 5,
+    "student_name": "Adam",
+    "course_id": "c002",
+    "like": true,
+    "dislike": false,
+    "comment": "Love it"
+  },
+  {
+    "id": 6,
+    "student_name": "satwik",
+    "course_id": "c002",
+    "like": true,
+    "dislike": false,
+    "comment": "this course is amazing"
+  }
+]
